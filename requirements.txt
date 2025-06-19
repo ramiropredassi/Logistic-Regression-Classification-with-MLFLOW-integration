@@ -1,0 +1,6 @@
+pandas
+numpy
+scikit-learn
+mlflow
+ipykernel == 6.29.5
+seaborn

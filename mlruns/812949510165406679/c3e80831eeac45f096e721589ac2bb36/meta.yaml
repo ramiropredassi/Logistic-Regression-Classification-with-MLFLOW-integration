@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/812949510165406679/c3e80831eeac45f096e721589ac2bb36/artifacts
+end_time: 1750351039529
+entry_point_name: ''
+experiment_id: '812949510165406679'
+lifecycle_stage: active
+run_id: c3e80831eeac45f096e721589ac2bb36
+run_name: bright-bird-250
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750351037569
+status: 3
+tags: []
+user_id: ramiropredassi

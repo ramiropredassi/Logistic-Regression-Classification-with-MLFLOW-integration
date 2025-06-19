@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/812949510165406679/3ba925004122417b93e0bce3e09f76f8/artifacts
+end_time: 1750350731016
+entry_point_name: ''
+experiment_id: '812949510165406679'
+lifecycle_stage: active
+run_id: 3ba925004122417b93e0bce3e09f76f8
+run_name: valuable-skink-137
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750350730984
+status: 4
+tags: []
+user_id: ramiropredassi
